@@ -58,9 +58,8 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃NIGHT RIDDER SESSION IS 
-┃SUCCESSFULLY
-┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 ✅🔥
+┃𝙉𝙄𝙂𝙃𝙏 𝙍𝙄𝘿𝘿𝙀𝙍 𝙄𝙎 𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇
+┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙀𝙉𝙅𝙊𝙔 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = JUNIOR EZED [NIGHT RIDDER] ✰
@@ -68,9 +67,9 @@ router.get('/', async (req, res) => {
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbAxi3nK01BnQZO8v70z
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Chat me 👉 https://wa.me/254112843071
-𝕋ℍ𝕀𝕊 𝕀𝕊 NIGHT-RIDDER-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
+𝕋ℍ𝕀𝕊 𝕀𝕊 ℕ𝕀𝔾ℍ𝕋-ℝ𝕀𝔻𝔻𝔼ℝ-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 NIGHT RIDDER FROM KENYA ken✌️*
+©*2024-𝟹𝟶𝟹𝟶 NIGHT RIDDER FROM KENYA 𝙺𝙴𝙽✌️*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
@@ -78,7 +77,7 @@ _Don't Forget To Give Star To My Repo_`
 
         await delay(100);
         await Pair_Code_By_Gifted_Tech.ws.close();
-        return await removeFile('./temp/'+id);
+        return await removeFile('./temp/'+ id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
                     GIFTED_MD_PAIR_CODE();
