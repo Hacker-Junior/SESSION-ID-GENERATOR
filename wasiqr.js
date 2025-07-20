@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://chat.whatsapp.com/H3wDC2s5SEYADywRIbvOiI?mode=ac_t
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Chat me 👉 https://wa.me/25112843071
+Chat me 👉 https://wa.me/254112843071
 𝕋ℍ𝕀𝕊 𝕀𝕊 ℕ𝕀𝔾ℍ𝕋-ℝ𝕀𝔻𝔻𝔼ℝ-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*𝟐𝟎𝟐𝟓-𝟑𝟎𝟑𝟎 𝐍𝐈𝐆𝐇𝐓-𝐑𝐈𝐃𝐃𝐄𝐑-𝐅𝐑𝐎𝐌-𝐊𝐄𝐍𝐘𝐀🇰🇪🧠*
