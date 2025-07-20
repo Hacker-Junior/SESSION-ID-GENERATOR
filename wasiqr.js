@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝙃𝘼𝙉𝙎-𝙈𝘿 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
+┃𝙉𝙄𝙂𝙃𝙏 𝙍𝙄𝘿𝘿𝙀𝙍 𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 
 ┃𝙎𝙐𝘾𝘾𝙀𝙎𝙎𝙁𝙐𝙇𝙇𝙔
-┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 ✅🔥
+┃𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙀𝘿 𝙀𝙉𝙅𝙊𝙔 ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = ✰ HANSTZ TECH ✰
+❶ || Creator = ✰ JUNIOR EZED{NIGHT-RIIDER} TECH ✰
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VasiOoR3bbUw5aV4qB31
+❷ || WhattsApp Channel = https://chat.whatsapp.com/H3wDC2s5SEYADywRIbvOiI?mode=ac_t
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Chat me 👉 https://wa.me/255760774888
-𝕋ℍ𝕀𝕊 𝕀𝕊 ℍ𝔸ℕ𝕊-𝕄𝔻-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
+Chat me 👉 https://wa.me/25112843071
+𝕋ℍ𝕀𝕊 𝕀𝕊 ℕ𝕀𝔾ℍ𝕋-ℝ𝕀𝔻𝔻𝔼ℝ-ℕ𝔼𝕎-𝕌ℙ𝔻𝔸𝕋𝔼 2025
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 𝐇𝐀𝐍𝐒-𝐅𝐑𝐎𝐌-𝐓𝐀𝐍𝐙𝐀𝐍𝐈𝐀🇹🇿✌️*
+©*𝟐𝟎𝟐𝟓-𝟑𝟎𝟑𝟎 𝐍𝐈𝐆𝐇𝐓-𝐑𝐈𝐃𝐃𝐄𝐑-𝐅𝐑𝐎𝐌-𝐊𝐄𝐍𝐘𝐀🇰🇪🧠*
 
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
